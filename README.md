@@ -6,7 +6,7 @@ Positioning, timing, and causality matter.
 What you do in the past can decide who survives in the future.
 
 ## 🎮 Play the Game
-👉 https://jayjain-code.github.io/chrono-clash/
+👉 https://jayjain-code.github.io/Chrono-Clash/
 
 *(Best played on desktop, fully playable on mobile)*
 
